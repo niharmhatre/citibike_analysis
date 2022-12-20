@@ -9,7 +9,8 @@ The Citibike trip data is likely prepared by Lyft, which operates the Citibike b
 
 The main problem I came across was adding a geometry to the datase. I tried to change the name for the heat map but could not succeed with it.
 
-
+### Static Maps
+![Static_Map](https://github.com/niharmhatre/citibike_analysis/blob/main/NYC_no_vehicles.png)
 
 ### Interactive Map  
 <iframe src="citibike_analysis.html" height="600" width="900"></iframe>
