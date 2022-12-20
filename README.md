@@ -7,7 +7,7 @@ The datasets to analyse the data were obtained from [Citibike website](https://c
 
 The Citibike trip data is likely prepared by Lyft, which operates the Citibike bike-sharing service. The trip data is updated on monthly basis and also they have a real-time updates for the docked bikes at the stations.
 
-The main problem I came across was adding a geometry to the dataset and then making time based heatmap.
+The main problem I came across was adding a geometry to the datase. I tried to change the name for the heat map but could not succeed with it.
 
 
 
