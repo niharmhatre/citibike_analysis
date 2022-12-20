@@ -15,5 +15,9 @@ The main problem I came across was adding a geometry to the datase. I tried to c
 ### Static Map
 ![Static_Map_2](https://github.com/niharmhatre/citibike_analysis/blob/main/NYC_no_vehicles.png)
 
+### Static Map
+![Static_Map_3]https://raw.githubusercontent.com/niharmhatre/citibike_analysis/16d3251193c47e50d00d23f4198f64cd265812b9/NYC_no_vehicles.png
+
+
 ### Interactive Map  
 <iframe src="citibike_analysis.html" height="855" width="130%"></iframe>
