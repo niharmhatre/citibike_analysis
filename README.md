@@ -1,4 +1,4 @@
-# Does crime and eviction share a significant association?  
+# Citibike Trip Data 
 ### A tract level analysis for New York City, 2019
 Nihar Mhatre, Commmand Line GIS, Fall 2022  
 Edward J. Bloustein School of Planning and Public Policy, Rutgers University
