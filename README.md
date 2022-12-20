@@ -1,5 +1,5 @@
 # Citibike Trip Data 
-### A tract level analysis for New York City, 2019
+### Frequency of trips originating from each Citibike station in New York City in Decemeber 2018
 Nihar Mhatre, Commmand Line GIS, Fall 2022  
 Edward J. Bloustein School of Planning and Public Policy, Rutgers University
 
