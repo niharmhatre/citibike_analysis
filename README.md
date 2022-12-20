@@ -10,7 +10,8 @@ The Citibike trip data is likely prepared by Lyft, which operates the Citibike b
 The main problem I came across was adding a geometry to the datase. I tried to change the name for the heat map but could not succeed with it.
 
 ### Static Map
-![Static_Map_1](https://github.com/niharmhatre/citibike_analysis/blob/main/bike_travel.png)
+No vehicles in Household
+![NYC_no_vehicles(1)](https://user-images.githubusercontent.com/120709699/208756782-bce42441-f5dc-491d-a9d2-5cdc8484ada8.png)
 
 ### Static Map
 ![Static_Map_2](https://github.com/niharmhatre/citibike_analysis/blob/main/NYC_no_vehicles.png)
