@@ -1,5 +1,6 @@
 # Citibike Trip Data 
-### Frequency of trips originating from each Citibike station in New York City in Decemeber 2018
+### "Spatial Analysis of Citibike Trip Data: Identifying Demographic Correlations"
+Frequency of trips originating from each Citibike station in New York City in Decemeber 2018
 Nihar Mhatre, Commmand Line GIS, Fall 2022  
 Edward J. Bloustein School of Planning and Public Policy, Rutgers University
 
