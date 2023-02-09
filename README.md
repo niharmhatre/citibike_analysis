@@ -11,7 +11,7 @@ The Citibike trip data is likely prepared by Lyft, which operates the Citibike b
 The main problem I came across was adding a geometry to the datase. I tried to change the name for the heat map in the layer control but could not succeed with it.
 
 ### Interactive Map  
-<iframe src="citibike_analysis.html" height="855" width="95%"></iframe>
+<iframe src="citibike_analysis.html" height="800" width="95%"></iframe>
 
 ### Static Map 1
 ![NYC_no_vehicles(1)](https://user-images.githubusercontent.com/120709699/208756782-bce42441-f5dc-491d-a9d2-5cdc8484ada8.png)
